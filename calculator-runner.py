@@ -1,5 +1,4 @@
-#this is the runner file, it is responsible for running your code from calculator.py
-import calculator   #this line imports your code
+import calculator
 
 #let's greet the user and grab their input
 print('Welcome to the calculator program!')
