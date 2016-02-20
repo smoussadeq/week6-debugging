@@ -9,5 +9,5 @@ def multiply(first, second):
 
 def divide(first, second):
     if second != 0:
-        raise Exception("I'm sorry, I can't divide by zero")
+        raise Exception('I\'m sorry, I can\'t divide by zero')
     return first / second        
